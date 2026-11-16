@@ -10,6 +10,12 @@ The project explores and compares different recurrent neural network architectur
 
 Moodline provides a minimal, interactive interface where users can enter a sentence and instantly visualize its predicted emotion and probability distribution.
 
+## 🚀 Live Demo
+
+**Try Moodline here:** [Emotion Classification with Deep Learning](https://emotion-classification-with-deep-learning.onrender.com)
+
+Explore the application by entering a sentence and discovering the emotions behind your words.
+
 ## Features
 
 - **Six Emotion Categories:** Classifies text into Joy, Sadness, Love, Anger, Fear, and Surprise.
