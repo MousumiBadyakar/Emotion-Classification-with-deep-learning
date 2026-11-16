@@ -246,6 +246,3 @@ The `.python-version` file specifies Python 3.11.11 for deployment compatibility
 ## 👩‍💻 Author
 
 **Mousumi Badyakar**
----
-
-\<p align="center">   \<b>🌈 Moodline – Understanding the emotions behind your words.\</b> \</p>
